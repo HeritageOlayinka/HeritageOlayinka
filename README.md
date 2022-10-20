@@ -29,18 +29,17 @@ Other than directly coding, I also spend my time doing other things. My interest
 - [Replit](https://replit.com) - I use this to code with other devs and test a lot of [fun projects](http://replit.com/@OlayinkaHeritag) on my mind. It really lifts a lot of burden off my shoulders because I don't have to install packages on my local device anymore.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has almost everything that I need to write code.
 
-## Accomplishments :trophy:
+## Latest work 
 
-- Latest work - [Turntable interface for music](https://turntable-interface-for-music.olayinkaheritag.repl.co/). The code is [here](https://replit.com/@OlayinkaHeritag/turntable-interface-for-music/)
+- [Turntable interface for music](https://turntable-interface-for-music.olayinkaheritag.repl.co/). The code is [here](https://replit.com/@OlayinkaHeritag/turntable-interface-for-music/)
 
 ## How about Some Bullet Points? :heavy_check_mark:
 
 - I'm currently working on an app that helps college students manage their eating habits. It'll help them eat responsibly and healthily.
 - I'm currently learning [React](https://reactjs.org/) and [Node js](https://nodejs.org/).
 - You can [contact me through email](mailto:tijesuolayinka@gmail.com)
-- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/heritage-olayinka/)**
-- **Also contact me on [Twitter](https://twitter.com/xpertHeritage)**
-- Fun fact: myteam multi-page website challenge is the first advanced challenge that I am doing.
+- **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/heritage-olayinka/) and [Twitter](https://twitter.com/xpertHeritage)**
+- Fun fact: I've also been learning p5.js on the side
 
 ## What about Some Statistics? :bar_chart:
 
