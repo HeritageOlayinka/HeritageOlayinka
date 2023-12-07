@@ -1,4 +1,4 @@
-# Hi! I am a 15y/o fullstack developer :wave:
+# Hi! I am a fullstack developer :wave:
 
 <div align="left">
   <a href="https://twitter.com/xpertheritage" target="_blank"><img src="https://img.shields.io/twitter/follow/xpertheritage?logo=twitter&style=for-the-badge" alt="Twitter" /></a> 
